@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "@marp-team/marp-cli": "^3.4.0"
+  },
+  "dependencies": {
+    "@type-challenges/utils": "^0.1.1"
   }
 }

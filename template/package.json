@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.ts",
   "scripts": {
+    "pres": "../pres.sh README.md && firefox README.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
