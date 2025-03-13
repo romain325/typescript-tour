@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.ts",
   "scripts": {
+    "test": "tsc index.ts",
     "pres": "../pres.sh README.md && firefox README.html",
-    "test": "tsc index.ts"
+    "pres-fr": "../pres.sh README_fr.md && firefox README_fr.html"
   },
   "keywords": [],
   "author": "",
